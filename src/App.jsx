@@ -1,17 +1,11 @@
-import Navbar from "@components/Navbar"
-import Footer from '@components/Footer'
-import '../global.css'
-
+import '../index.css'
+import Sidenav from './components/Sidenav'
 function App() {
 
   return (
-    <>
-    <Navbar/>
-      <div className='main'>
-        This App is my PortFolio
-        </div>
-        <Footer/>
-    </>
+    <div>
+     <Sidenav/>
+    </div>
   )
 }
 
