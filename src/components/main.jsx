@@ -1,4 +1,4 @@
-import imagen from '../assets/images/imagen.jpg'
+import imagen from '../images/imagen.jpg'
 import { TypeAnimation } from 'react-type-animation';
 import { FaTwitter, FaFacebook, FaInstagram, FaLinkedinIn} from 'react-icons/fa';
 

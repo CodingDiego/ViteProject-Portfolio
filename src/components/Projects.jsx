@@ -1,7 +1,7 @@
-import Project1 from '../assets/images/project1.jpeg';
-import Project2 from '../assets/images/project2.jpeg';
-import Project3 from '../assets/images/project3.jpeg';
-import Project4 from '../assets/images/project4.jpeg';
+import Project1 from '../images/project1.jpeg';
+import Project2 from '../images/project2.jpeg';
+import Project3 from '../images/project3.jpeg';
+import Project4 from '../images/project4.jpeg';
 
 import ProjectItem from './ProjectItem';
 
