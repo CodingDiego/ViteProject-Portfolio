@@ -12,18 +12,18 @@ const Main = () => {
                 <h1 className='sm:text-5xl text-4xl font-bold text-gray-800'>{`I'm Diego Palacios`}</h1>
                 <h2 className='flex sm:text-3xl text-2xl pt-4 text-gray-800'>{`I'm a `}
                 <TypeAnimation
-      sequence={[
-        'FrontEnd Developer',
-        2000, 
-        'Coder',
-        1000,
-        'Tech Enthusiast',
-        1000,
-                ]}
-                    wrapper="span"
-                     cursor={true}
-                     style={{ fontSize: '1em', paddingLeft: '5px' }}
-                    repeat={Infinity}
+                     sequence={[
+                        'FrontEnd Developer',
+                          2000, 
+                         'Coder',
+                          1000,
+                          'Tech Enthusiast',
+                         1000,
+                        ]}
+                            wrapper="span"
+                           cursor={true}
+                          style={{ fontSize: '1em', paddingLeft: '5px' }}
+                         repeat={Infinity}
                     />
                 </h2>
                 <div className='flex justify-between pt-6 max-w-[200px] w-full '>
